@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-05-04
+img: 02-meaning.png
+alt: Meaning
+project-date: May 2014
+link: https://debokeh.com/meaning
+category: Mobile Application
+description: Let's see what it mean!<br><br><br>~ Snap picture -> Highlight Words -> Translate/Search<br>~ Enter/Paste text from clipboard -> Translate/Search<br>~ Get location from picture and open it in map.<br>~ Share word and meaning to social network.<br>~ English/Japanese/Thai language supported.
+
+---
