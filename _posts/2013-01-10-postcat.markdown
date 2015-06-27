@@ -6,7 +6,7 @@ img: 01-postcat.png
 alt: PostCat
 project-date: January 2013
 link: https://debokeh.com/postcat
-category: Mobile Application
+category: iOS Application
 description: Easiest way to share/download file and picture!<br><br>♥ To other devices via P2P.<br>♥ To other devices via P2P on Personal HotSpot. <br>♥ To other devices via E-mail.<br>♥ To other supported Application. (e.g. DropBox, iBook)<br><br>no fancy registration/internet required :)
 
 ---
