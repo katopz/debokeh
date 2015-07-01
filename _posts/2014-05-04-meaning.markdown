@@ -5,7 +5,7 @@ date: 2014-05-04
 img: 02-meaning.png
 alt: Meaning
 project-date: May 2014
-link: http://debokeh.com/meaning
+link: https://itunes.apple.com/us/app/meaning/id666957022?mt=8
 category: iOS Application
 description: Let's see what it mean!<br><br><br>~ Snap picture -> Highlight Words -> Translate/Search<br>~ Enter/Paste text from clipboard -> Translate/Search<br>~ Get location from picture and open it in map.<br>~ Share word and meaning to social network.<br>~ English/Japanese/Thai language supported.
 

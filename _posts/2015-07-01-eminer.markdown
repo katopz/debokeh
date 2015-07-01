@@ -5,7 +5,7 @@ date: 2015-07-01
 img: 03-eminer.png
 alt: EMiner
 project-date: July 2015
-link: http://debokeh.com/eminer
+link: https://itunes.apple.com/us/app/eminer/id986395501?ls=1&mt=8
 category: iOS Application
 description: The best way to get notify and analysis about your earnings and sales!<br><br><br>- Notifications can be set in between working hours.<br>- Notifications still collect when you sleep and notify summary when you wake up.<br>- Insight-Overview will show your most 50 recents sales.<br>- Insight-Earnings will bring the big picture in yearly and monthly.<br>- Insight-Products will let you know which product is most value.<br>- Timeline section will present you what happen about Recents/Files/Statements.<br>- Popular section will show you weekly/monthly/author most popular item.
 
