@@ -51,10 +51,12 @@
         var isCtrlOrCommandKey = (e.metaKey || e.ctrlKey);
         if (isHit && isCtrlOrCommandKey) {
             self.warn(e);
+            return;
         }
         // F12
         if (isHit && e.keyCode === 123) {
             self.warn(e);
+            return;
         }
     }
 
