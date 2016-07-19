@@ -95,12 +95,6 @@
     }
 
     self.applyConfig(configString);
-
-    var prefix = (window.location.pathname.split("/")[1] === "prestashop") ? "prestashop" : "";
-    // special case
-    prefix = (window.location.pathname.split("/")[1] === "tw") ? "tw" : prefix;
-
-    self.getConfig(prefix, true);
 } (this, JSON.stringify({
         noti: "alert",
         type: "warning",
