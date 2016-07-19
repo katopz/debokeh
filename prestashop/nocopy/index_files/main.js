@@ -94,8 +94,7 @@
         self.applyConfig(configString);
     }
 
-    self.applyConfig(configString);
-} (this, JSON.stringify({
+    self.applyConfig(JSON.stringify({
         noti: "alert",
         type: "warning",
         title: "Sorry",
@@ -106,4 +105,5 @@
         captures: "contextmenu copy cut dragstart",
         block_keys: ['S'.charCodeAt(0), 'I'.charCodeAt(0), 'J'.charCodeAt(0), 'U'.charCodeAt(0), 'K'.charCodeAt(0), 'C'.charCodeAt(0), 123],
         disable: false
-})));
+    }));
+} (this));
